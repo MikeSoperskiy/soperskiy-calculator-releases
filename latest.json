@@ -1,10 +1,10 @@
 {
   "version": "2.2.3",
   "notes": "SOPERSKIY v2.2.3",
-  "pub_date": "2026-02-22T14:17:00Z",
+  "pub_date": "2026-02-22T14:22:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/MikeSoperskiy/soperskiy-calculator-releases/releases/download/v2.2.3/SOPERSKIY_2.2.3_x64-setup.exe",
+      "url": "https://github.com/MikeSoperskiy/soperskiy-calculator-releases/releases/download/v.2.2.3/SOPERSKIY_2.2.3_x64-setup.exe",
       "signature": ""
     }
   }
