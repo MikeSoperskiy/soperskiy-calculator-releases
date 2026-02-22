@@ -1,0 +1,11 @@
+{
+  "version": "2.2.2",
+  "notes": "SOPERSKIY v2.2.2",
+  "pub_date": "2026-02-22T13:40:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/MikeSoperskiy/soperskiy-calculator-releases/releases/download/v2.2.2/SOPERSKIY_2.2.2_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbE5jeWNqalNMb2xsRk1vWllHRVpvVDFQbmNYUTBJb0VsdG9YcWJFV3l4SmtZQ3k3KzVaNDJLWjFIelFkaDk2K1dHeUtpY0VKYmtKUm1VRUZwS1NhaVJtRytUWDNpWmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNzY3NTg0CWZpbGU6U09QRVJTS0lZXzIuMi4yX3g2NC1zZXR1cC5leGUKWjEzV1VwREVDMDBQb1d6UWJPQXVlS3Rmc1Z2UWw5bUJ4ZXIxWTVjQnJ0M0FTcEx2emhNMGZGVlpSQkZwc3RNeTRUS1llWEZsaGlaaW5xazRuSm42Q0E9PQo="
+    }
+  }
+}
