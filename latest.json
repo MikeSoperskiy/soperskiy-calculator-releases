@@ -1,11 +1,11 @@
 {
-  "version": "2.2.3",
-  "notes": "SOPERSKIY v2.2.3",
+  "version": "2.3.0",
+  "notes": "SOPERSKIY v2.3.0",
   "pub_date": "2026-02-22T14:22:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/MikeSoperskiy/soperskiy-calculator-releases/releases/download/v.2.2.3/SOPERSKIY_2.2.3_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbE5jeWNqalNMb3NNTm1FMWFxeTIwSjFpQ1Q2b2IwWiswWnVCQXBLUEdPVUkyck1zMWd3cDVsMnpXcGRSUmh1RXFySEdQKzMxa01ZRm41czJEOTlVVjdBaXZNY2E0UVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNzY5ODQ2CWZpbGU6U09QRVJTS0lZXzIuMi4zX3g2NC1zZXR1cC5leGUKa2NBeWpHb2lNbDRmUFVzUFZkRDVZOXlodmQwWmJidHF5b1Q0WjZnSmdpb0QxT0l4U1JTSUQyaXl3cVUwMXYxa1NpQXh2enNnRC9JdWwxUXJRamY4QlE9PQo="
+      "url": "https://github.com/MikeSoperskiy/soperskiy-calculator-releases/releases/download/v2.3.0/SOPERSKIY_2.3.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbE5jeWNqalNMb3B3ZkJvemFqZlVVQ3Z0YnJJN3gyYjQ3a1ZoUFpFQWFkQmxWbjBoejdDeUdQMEpVYk83dW9NZTd5dHhNRDFOUGlQNTQvSnVuY0RLNzFrSnMwMVh3cXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxODU0OTI4CWZpbGU6U09QRVJTS0lZXzIuMy4wX3g2NC1zZXR1cC5leGUKNjhhMHNld3J6b0pSQ09hTVFjU2JKNzh5cnF0Mzh1T2hmSlcvYXNpN0dCOERTNGJPVnF1Z3hiUGdGNDRjYm1DSWEzcjM0TDQ1REdEbXZzY205dGxsQ3c9PQo="
     }
   }
 }
